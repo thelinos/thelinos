@@ -6,12 +6,9 @@
 
 <br>
 <!-- 
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
-
 - An aspiring mo
 - DevOps Approach Software Methodology
-
 <br> 
 -->
 
@@ -27,8 +24,18 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=thelinos&theme=windows-dark&border_radius=10&mode=weekly)](https://git.io/streak-stats)
+
 <br>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelinos&label=Profile%20views&color=0e75b6&style=flat" alt="thelinos" /> </p> -->
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thelinos" alt="thelinos" /></a> </p> -->
+
+<a href="http://www.github.com/thelinos"><img src="https://github-readme-stats.vercel.app/api?username=thelinos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=000000&border_radius=10&hide_border=false&show_icons=true" alt="Thelinos's GitHub stats" /></a>
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelinos&layout=compact&theme=vision-friendly-dark)](https://github.com/thelinos/github-readme-stats)
 <br>
 <br>
@@ -46,13 +53,13 @@
 </a>
 
 <br>
-<a href="https://twitter.com/Know_Him_More" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Know_Him_More-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://twitter.com/theLino71653" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  Kennedy Lino Gyimah-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 
 <br>
-<a href="mailto:adubenedict10@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Benedict Adu-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:linogyimahkennedy@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Kennedy Lino Gyimah-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </div>
 
@@ -63,6 +70,6 @@
 
 <br>
 
-Credit: [Adu Benedict](https://github.com/Kweeku/)
+Credit: [Adu Benedict](https://github.com/Kweeku/), [Amoah Alexander](https://github.com/Trinity6264/)
 
 Last edited on: Sunday, December 10, 2023
