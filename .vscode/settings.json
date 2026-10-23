@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^git config --show-origin --get commit\\.gpgsign; git config --show-origin --get gpg\\.format; git config --show-origin --get user\\.signingkey; git config --show-origin --get user\\.name; git config --show-origin --get user\\.email; git remote -v; git branch --show-current$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
